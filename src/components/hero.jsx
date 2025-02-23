@@ -5,18 +5,18 @@ const Hero = () => {
         <div className="hero-content">
           <div className="hero-text">
             <div className="glitch-container">
-              <h1 className="glitch" data-text="John Doe">Kimhar Alpha Lim</h1>
+              <h1 className="glitch" data-text="John Doe">Hi, I'm Kimhar Alpha Lim</h1>
               <div className="glitch-shadow"></div>
             </div>
             <div className="title-container">
-              <h2 className="cyber-title">Backend Developer</h2>
+              <h2 className="cyber-title">Backend Developer </h2>
               <div className="tech-line">
                 <span className="tech-dot"></span>
               </div>
             </div>
             <p className="cyber-text">
               <span className="bracket">[</span>
-              Architecting Digital Infrastructure
+                Passionate about building high-performance, secure, and scalable systems
               <span className="bracket">]</span>
             </p>
             <div className="cta-container">
